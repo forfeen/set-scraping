@@ -1,6 +1,3 @@
-# Chananya Photan
-# 6110545481
-
 require 'Nokogiri'
 require 'open-uri'
 
